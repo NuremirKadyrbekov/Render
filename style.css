@@ -1,0 +1,17 @@
+.loading{
+    width: 64px;
+    margin-left: 8%;
+    margin-top: 20%;
+    position: absolute;
+}
+.Div{
+    margin-left: 40%;
+}
+.buttons{
+    margin-bottom: 20px;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+.card-img-top{
+    height: 280px;;
+}
